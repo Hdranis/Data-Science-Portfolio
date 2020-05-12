@@ -11,7 +11,7 @@ Let's try to answer the question by doing some data exploration and data visuali
 - Matplotlib
 - Pandas
 
-[Notebook](./S2/Projet_Speed_Dating/Speed_Dating.ipynb)
+[Notebook](./notebooks/Speed_Dating.ipynb)
 
 # Supervised Machine Learning 
 
