@@ -1,6 +1,9 @@
 # Data Science Portfolio
 
-# Data Visualization : How to get a second match ?
+
+# Data Visualization 
+
+## How to get a second match ?
 
 They say it's always difficult to find love ... What could help participants of a speed dating event to achieve their goal ? 
 
@@ -11,7 +14,7 @@ Let's try to answer the question by doing some data exploration and data visuali
 - Matplotlib
 - Pandas
 
-[Notebook](./notebooks/Speed_Dating.ipynb)
+[Notebook]
 
 # Supervised Machine Learning 
 
@@ -27,7 +30,7 @@ Machine learning can help us predict the conversion rate and then make recommand
 - Random Forest
 - Naive Bayes
 
-[Notebook](./S3/Projet_Conversion_Rate/Project_Conversion_Rate.ipynb)
+[Notebook]
 
 
 ## Fraudulent activities detection
@@ -38,9 +41,11 @@ The goal of this challenge is to build a model that allows to predict the probab
 - Feature Engineering 
 - AdaBoost
 
-[Notebook](./S4/Project_Fraudulent_Activities/Project_Fraudulent_Activities_Anis.ipynb)
+[Notebook]
 
-# Deep Learning : NLP with Disaster Tweets
+# Deep Learning 
+
+## NLP with Disaster Tweets
 
 Twitter has become an important communication channel in times of emergency.
 The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter.
@@ -54,10 +59,12 @@ Can a model help us determine if a tweet is related to a real disaster ?
 - Recurrent Neural Networks (RNN)
 - Long Short Term Memory networks (LSTM)
 
-[Notebook](./FULL_STACK_12_WEEK_PROGRAM-master/S0.7\ --\ Deep\ Learning\ -\ Natural\ Language\ Processing/Projet\ --\ Real\ or\ Not\?\ NLP\ with\ Disaster\ Tweets/Project\ -\ NLP\ with\ disaster\ Tweets\ -\ 15\ epochs.ipynb)
+[Notebook]
 
 
-# Big Data : Recommender System using collaborative filtering with Yelp
+# Big Data 
+
+## Recommender System using collaborative filtering with Yelp
 
 Using machine learning to make a restaurant recommender system.  
 
@@ -69,5 +76,4 @@ Collaborative filtering methods for recommender systems are methods that are sol
 - Spark
 - Alternating Least Square (ALS)
 
-[Notebook](./FULL_STACK_12_WEEK_PROGRAM-master/S0.9\ --\ Cloud\ Computing\ \&\ Spark/Projet\ --\ Construire\ un\ moteur\ de\ recommendations\ avec\ Yelp/S9\ -\ Project\ Big\ Data\ Yelp.ipynb )
-
+[Notebook]
