@@ -14,7 +14,7 @@ Let's try to answer the question by doing some data exploration and data visuali
 - Matplotlib
 - Pandas
 
-[Notebook](../notebooks/Speed_Dating.ipynb)
+[Notebook](notebooks/Speed_Dating.ipynb)
 
 # Supervised Machine Learning 
 
@@ -30,7 +30,7 @@ Machine learning can help us predict the conversion rate and then make recommand
 - Random Forest
 - Naive Bayes
 
-[Notebook]
+[Notebook](notebooks/Conversion_Rate.ipynb)
 
 
 ## Fraudulent activities detection
@@ -41,7 +41,7 @@ The goal of this challenge is to build a model that allows to predict the probab
 - Feature Engineering 
 - AdaBoost
 
-[Notebook]
+[Notebook](notebooks/Fraudulent_Activities.ipynb)
 
 # Deep Learning 
 
@@ -59,7 +59,7 @@ Can a model help us determine if a tweet is related to a real disaster ?
 - Recurrent Neural Networks (RNN)
 - Long Short Term Memory networks (LSTM)
 
-[Notebook]
+[Notebook](notebooks/NLP_with_disaster_Tweets.ipynb)
 
 
 # Big Data 
@@ -76,4 +76,4 @@ Collaborative filtering methods for recommender systems are methods that are sol
 - Spark
 - Alternating Least Square (ALS)
 
-[Notebook]
+[Notebook](notebooks/Yelp_with_spark.ipynb)
