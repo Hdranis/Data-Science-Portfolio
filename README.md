@@ -6,6 +6,8 @@ Machine Learning challenge proposed by the french investment fund Napoleon X.
 The challenge is organized by french ENS and Collège de France. 
 
 - [Repository of the project](https://github.com/Hdranis/Prediction_Sharpe_ratio)
+
+Abstract:
 - Ranked 2nd on the public leaderbord
 - Metric = Mean Absosult Error
 - My score = 0.5388 
