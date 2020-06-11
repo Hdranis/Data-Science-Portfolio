@@ -1,5 +1,13 @@
 # Data Science Portfolio
 
+# Prediction of Sharpe ratio for blends of quantitative strategies 
+
+Machine Learning challenge proposed by the french investment fund Napoleon X.
+The challenge is organized by french ENS and Collège de France. 
+
+- [Repository of the project](https://github.com/Hdranis/Prediction_Sharpe_ratio)
+- Ranked 2nd on the public leaderbord
+
 
 # Data Visualization 
 
